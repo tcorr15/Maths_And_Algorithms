@@ -1,0 +1,4 @@
+﻿  QuestionOne.cpp
+c:\users\thoma\onedrive - queen's university belfast\maths_and_algorithms\laboratory_practicals\questionone\questionone\questionone.cpp(9): warning C4018: '<': signed/unsigned mismatch
+c:\users\thoma\onedrive - queen's university belfast\maths_and_algorithms\laboratory_practicals\questionone\questionone\questionone.cpp(9): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+  QuestionOne.vcxproj -> C:\Users\thoma\OneDrive - Queen's University Belfast\Maths_And_Algorithms\Laboratory_Practicals\QuestionOne\Debug\QuestionOne.exe

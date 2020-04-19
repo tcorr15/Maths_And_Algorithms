@@ -1,0 +1,3 @@
+﻿  BinaryEncoder.cpp
+c:\users\thoma\onedrive - queen's university belfast\maths_and_algorithms\laboratory_practicals\binaryencoder\binaryencoder.cpp(28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  BinaryEncoder.vcxproj -> C:\Users\thoma\OneDrive - Queen's University Belfast\Maths_And_Algorithms\Laboratory_Practicals\BinaryEncoder\x64\Debug\BinaryEncoder.exe

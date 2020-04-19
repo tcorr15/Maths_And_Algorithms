@@ -1,0 +1,4 @@
+﻿  BinaryEncoder.cpp
+c:\users\thoma\onedrive - queen's university belfast\maths_and_algorithms\laboratory_practicals\new folder\binaryencoder\binaryencoder.cpp(16): warning C4018: '<': signed/unsigned mismatch
+c:\users\thoma\onedrive - queen's university belfast\maths_and_algorithms\laboratory_practicals\new folder\binaryencoder\binaryencoder.cpp(20): warning C4018: '<': signed/unsigned mismatch
+  BinaryEncoder.vcxproj -> C:\Users\thoma\OneDrive - Queen's University Belfast\Maths_And_Algorithms\Laboratory_Practicals\New folder\BinaryEncoder\Debug\BinaryEncoder.exe

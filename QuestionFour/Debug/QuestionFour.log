@@ -1,0 +1,4 @@
+﻿  QuestionFour.cpp
+c:\users\thoma\onedrive - queen's university belfast\maths_and_algorithms\laboratory_practicals\questionfour\questionfour.cpp(26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\thoma\onedrive - queen's university belfast\maths_and_algorithms\laboratory_practicals\questionfour\questionfour.cpp(29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  QuestionFour.vcxproj -> C:\Users\thoma\OneDrive - Queen's University Belfast\Maths_And_Algorithms\Laboratory_Practicals\QuestionFour\Debug\QuestionFour.exe

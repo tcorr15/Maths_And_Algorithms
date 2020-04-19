@@ -1,0 +1,4 @@
+﻿  QuestionTwo.cpp
+c:\users\thoma\onedrive - queen's university belfast\maths_and_algorithms\laboratory_practicals\questiontwo\questiontwo.cpp(16): warning C4018: '<': signed/unsigned mismatch
+c:\users\thoma\onedrive - queen's university belfast\maths_and_algorithms\laboratory_practicals\questiontwo\questiontwo.cpp(45): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  QuestionTwo.vcxproj -> C:\Users\thoma\OneDrive - Queen's University Belfast\Maths_And_Algorithms\Laboratory_Practicals\QuestionTwo\Debug\QuestionTwo.exe
